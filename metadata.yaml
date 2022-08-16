@@ -1,0 +1,35 @@
+_repo: Landmarks-in-Russian-literature_68597
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baring, Maurice
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '937'
+    url: http://www.gutenberg.org/2009/agents/937
+    wikipedia: https://en.wikipedia.org/wiki/Maurice_Baring
+description: ''
+gutenberg_issued: '2022-07-24'
+identifiers:
+  gutenberg: '68597'
+  lccn: w10000209
+language: en
+pgterms:marc904: https://archive.org/details/landmarksinrussi00bariuoft
+pgterms:marc905: 20220422182606baring
+pgterms:marc906: '1910'
+pgterms:marc907: UK
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: UK :Methuen & Co., Ltd.,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian literature -- 19th century -- History and criticism'
+- !lcc 'PG'
+- GITenberg
+tableOfContents: Russian characteristics -- Realism of Russian literature -- Gogol
+  and the cheerfulness of the Russian people -- Tolstoy and Tourgeniev -- The place
+  of Tourgeniev -- Dostoievsky -- Plays of Anton Tchekov.
+title: Landmarks in Russian literature
+url: http://www.gutenberg.org/ebooks/68597
